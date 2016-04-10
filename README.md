@@ -1,2 +1,2 @@
 # hello-world
-i am learning gtihub
+i will eventually use this platform everyday
